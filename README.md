@@ -1,6 +1,6 @@
 # Metodologia da reportagem: [Prefeito infrator: políticos multados por danos ambientais disputam votos em 2024](https://apublica.org/2024/08/prefeito-infrator-politicos-multados-por-danos-ambientais-disputam-votos-em-2024/)
 
-Os dados de candidatos e resultados das eleições municipais de 2020 foram obtidos no site [Base dos Dados](https://basedosdados.org/dataset/eef764df-bde8-4905-b115-6fc23b6ba9d6?table=16e2c1a4-2444-4bf3-a268-4d20db9c9e95), a partir das informações do repositório de dados eleitorais do Tribunal [Superior Eleitoral(https://dadosabertos.tse.jus.br/)]. A consulta foi feita utilizando a linguagem de programação R, conforme o [código](https://github.com/apublica/prefeitos_multados/blob/main/code/eleitos_2020.R).
+Os dados de candidatos e resultados das eleições municipais de 2020 foram obtidos no site [Base dos Dados](https://basedosdados.org/dataset/eef764df-bde8-4905-b115-6fc23b6ba9d6?table=16e2c1a4-2444-4bf3-a268-4d20db9c9e95), a partir das informações do repositório de dados eleitorais do [Tribunal Superior Eleitoral](https://dadosabertos.tse.jus.br/). A consulta foi feita utilizando a linguagem de programação R, conforme o [código](https://github.com/apublica/prefeitos_multados/blob/main/code/eleitos_2020.R).
 
 As informações de candidatos de 2024 foram coletadas diretamente do repositório de dados do TSE, com última atualização às 19h30 do dia 12 de agosto. O código da coleta pode ser visto no [link](https://github.com/apublica/prefeitos_multados/blob/main/code/coleta_2024.R).
 
